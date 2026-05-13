@@ -2,7 +2,7 @@
 
 🎓 Estudante de Sistemas de Informação na FHO (1º semestre)  
 📍 Mogi Guaçu, sp 
-🚀 Em busca do meu primeiro estágio em TI
+-🚀 Em busca do meu primeiro estágio em TI
 
 ---
 
