@@ -43,7 +43,7 @@ Quando não estou estudando, você pode me encontrar:
 
 ## 📊 GitHub Stats
 
-![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true)
+![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluimat&showicons=true&theme=dark&hide_border=true)
 
 ---
 
