@@ -43,7 +43,7 @@ Quando não estou estudando, você pode me encontrar:
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Fluimat&show_icons=true&theme=dark&hide_border=true
+[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fluimat)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contato
 
